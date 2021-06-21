@@ -1,0 +1,18 @@
+h1{
+	 color: red; border: dotted; 
+
+}
+.line2{
+	color: blue ; background-color: black;
+}
+#line4{
+	color: orange ; background-color: green ; border-style: line 
+}
+.c1{
+	color: red ;
+	border-bottom: dotted;
+}
+.link{
+	width: 50% ;
+	height: 500px ;
+}
